@@ -11,10 +11,14 @@
             "id": "b51bc22980371520",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Magik the Gathering/Gang Aang.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Gang Aang"
             }
           }
         ]
@@ -181,6 +185,9 @@
   },
   "active": "b51bc22980371520",
   "lastOpenFiles": [
+    "Magik the Gathering/Ninja di Kamigawa.md",
+    "Magik the Gathering/Gang Aang.md",
+    "Magik the Gathering/Magik the Gathering Decks.md",
     "README.md",
     "Architettura 2026/4 Componenti per l' elaborazione binaria dell' informazione.md",
     "Architettura 2026/9 ALU e moltiplicatore.md",
@@ -197,10 +204,7 @@
     "Architettura 2026/Immagini/Pasted image 20260317101643.png",
     "Magik the Gathering/Aang e Zuko.md",
     "Magik the Gathering/Samurai Solitari.md",
-    "Magik the Gathering/Ninja di Kamigawa.md",
-    "Magik the Gathering/Magik the Gathering Decks.md",
     "Magik the Gathering/Toph e Katara.md",
-    "Senza nome.md",
     "Senza nome.base",
     "Senza nome.canvas",
     "Senza nome 1.canvas",

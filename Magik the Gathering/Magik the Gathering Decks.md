@@ -6,6 +6,6 @@
 
 ## [[Aang e Zuko]]
 
-## [[Avatar Gang]]
+## [[Gang Aang]]
 
 
