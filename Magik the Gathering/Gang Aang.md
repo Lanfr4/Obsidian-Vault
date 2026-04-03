@@ -1,7 +1,10 @@
 [[Magik the Gathering Decks]]
 
-Creature
+### Creature
 4x Avatar Aang
+3x Katar the Fearless
+2x Katara Bending Prodigy
 
-Magie e Aretefatti
-Terre
+
+### Magie e Artefatti
+### Terre
