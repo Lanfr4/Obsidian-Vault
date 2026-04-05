@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magik the Gathering/Gang Aang.md",
+                "file": "Formulari/Matematica Discreta/Capitolo 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gang Aang"
+              "title": "Capitolo 3"
             }
           }
         ]
@@ -185,9 +185,12 @@
   },
   "active": "b51bc22980371520",
   "lastOpenFiles": [
+    "Magik the Gathering/Gang Aang.md",
+    "Formulari/Matematica Discreta/Capitolo 3.md",
+    "Formulari/Matematica Discreta",
+    "Formulari",
     "Magik the Gathering/Ninja di Kamigawa.md",
     "Magik the Gathering/Magik the Gathering Decks.md",
-    "Magik the Gathering/Gang Aang.md",
     "README.md",
     "Architettura 2026/4 Componenti per l' elaborazione binaria dell' informazione.md",
     "Architettura 2026/9 ALU e moltiplicatore.md",
