@@ -19,7 +19,7 @@
 
 - **Il Test del Sistema:** Scrivi la combinazione lineare $x\vec{v_1} + y\vec{v_2} + z\vec{v_3} = \vec{0}$.
     
-- **Risoluzione:** Se l'unica soluzione possibile è che tutti i coefficienti siano zero ($x=0, y=0, z=0$), allora sono **Linealmente Indipendenti**.
+- **Risoluzione:** Se l'unica soluzione possibile è che tutti i coefficienti siano zero ($x=0, y=0, z=0$), allora sono **Linearmente Indipendenti**.
     
 - **Segnale di pericolo:** Se trovi che un vettore è multiplo di un altro (es. $(1,2)$ e $(2,4)$), sono **Dipendenti**.
     
