@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a67b93475aad3854",
+        "id": "fb8da652cd825ab1",
         "type": "tabs",
         "children": [
           {
-            "id": "b51bc22980371520",
+            "id": "a28d78e23f4e43ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formulari/Matematica Discreta/Capitolo 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Capitolo 3"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -183,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b51bc22980371520",
+  "active": "a7d71e6afa2656f0",
   "lastOpenFiles": [
     "Magik the Gathering/Gang Aang.md",
     "Formulari/Matematica Discreta/Capitolo 3.md",
