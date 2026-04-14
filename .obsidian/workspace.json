@@ -11,10 +11,14 @@
             "id": "a28d78e23f4e43ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Architettura 2026/4 Componenti per l' elaborazione binaria dell' informazione.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "4 Componenti per l' elaborazione binaria dell' informazione"
             }
           }
         ]
@@ -179,8 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7d71e6afa2656f0",
+  "active": "a28d78e23f4e43ca",
   "lastOpenFiles": [
+    "Architettura 2026/3 Algebra di Boole.md",
+    "Architettura 2026/5 Sintesi di Reti Combinate.md",
+    "Architettura 2026/6 Sintesi di Reti Combinatorie con mappe di Karnaugh.md",
+    "Architettura 2026/7 Componenti combinatori speciali.md",
+    "Architettura 2026/8 Aritmetica binaria e sommatore.md",
+    "Architettura 2026/9 ALU e moltiplicatore.md",
+    "Architettura 2026/4 Componenti per l' elaborazione binaria dell' informazione.md",
+    "Architettura 2026/2 Codifica Binaria delle Informazioni.md",
+    "Architettura 2026/1 Segnali Binari.md",
+    "Architettura 2026/0 Architettura degli Elaboratori e Laboratorio.md",
     "Magik the Gathering/Gang Aang.md",
     "Formulari/Matematica Discreta/Capitolo 3.md",
     "Formulari/Matematica Discreta",
@@ -188,16 +202,6 @@
     "Magik the Gathering/Ninja di Kamigawa.md",
     "Magik the Gathering/Magik the Gathering Decks.md",
     "README.md",
-    "Architettura 2026/4 Componenti per l' elaborazione binaria dell' informazione.md",
-    "Architettura 2026/9 ALU e moltiplicatore.md",
-    "Architettura 2026/3 Algebra di Boole.md",
-    "Architettura 2026/2 Codifica Binaria delle Informazioni.md",
-    "Architettura 2026/1 Segnali Binari.md",
-    "Architettura 2026/0 Architettura degli Elaboratori e Laboratorio.md",
-    "Architettura 2026/8 Aritmetica binaria e sommatore.md",
-    "Architettura 2026/7 Componenti combinatori speciali.md",
-    "Architettura 2026/6 Sintesi di Reti Combinatorie con mappe di Karnaugh.md",
-    "Architettura 2026/5 Sintesi di Reti Combinate.md",
     "Architettura 2026/Immagini",
     "Architettura 2026/Immagini/Porte Logiche.png",
     "Architettura 2026/Immagini/Pasted image 20260317101643.png",
