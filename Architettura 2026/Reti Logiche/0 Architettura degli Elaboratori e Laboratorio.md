@@ -7,5 +7,6 @@
 [[7 Componenti combinatori speciali]]
 [[8 Aritmetica binaria e sommatore]]
 [[9 ALU e moltiplicatore]]
+[[10 Introduzione alle  FSM]]
 
 

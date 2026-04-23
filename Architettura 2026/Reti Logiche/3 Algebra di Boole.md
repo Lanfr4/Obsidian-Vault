@@ -1,5 +1,5 @@
 [[0 Architettura degli Elaboratori e Laboratorio]]
-
+## IMPORTANTE!!
 Vogliamo cercare un formalismo che ci  permette di associare una espressione algebrica con una binaria, i valori 0 e 1 appartengono ai Naturali, nel mondi binario nn possiamo fare 1+1= 2, per questo bisogna utilizzare la ALGEBRA DI BOOLE
 
 Definizione:
