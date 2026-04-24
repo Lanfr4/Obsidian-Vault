@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architettura 2026/Reti Logiche/10 Introduzione alle  FSM.md",
+                "file": "Architettura 2026/Reti Logiche/5 Sintesi di Reti Combinate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Introduzione alle  FSM"
+              "title": "5 Sintesi di Reti Combinate"
             }
           }
         ]
@@ -185,16 +185,16 @@
   },
   "active": "68af2bf60f47c434",
   "lastOpenFiles": [
+    "Architettura 2026/Reti Logiche/4 Componenti per l' elaborazione binaria dell' informazione.md",
+    "Architettura 2026/Reti Logiche/5 Sintesi di Reti Combinate.md",
+    "Architettura 2026/Reti Logiche/2 Codifica Binaria delle Informazioni.md",
+    "Architettura 2026/Reti Logiche/1 Segnali Binari.md",
+    "Architettura 2026/Reti Logiche/10 Introduzione alle  FSM.md",
     "Architettura 2026/Reti Logiche/9 ALU e moltiplicatore.md",
     "Architettura 2026/Reti Logiche/8 Aritmetica binaria e sommatore.md",
     "Architettura 2026/Reti Logiche/7 Componenti combinatori speciali.md",
     "Architettura 2026/Reti Logiche/6 Sintesi di Reti Combinatorie con mappe di Karnaugh.md",
-    "Architettura 2026/Reti Logiche/5 Sintesi di Reti Combinate.md",
-    "Architettura 2026/Reti Logiche/4 Componenti per l' elaborazione binaria dell' informazione.md",
     "Architettura 2026/Reti Logiche/3 Algebra di Boole.md",
-    "Architettura 2026/Reti Logiche/2 Codifica Binaria delle Informazioni.md",
-    "Architettura 2026/Reti Logiche/1 Segnali Binari.md",
-    "Architettura 2026/Reti Logiche/10 Introduzione alle  FSM.md",
     "Architettura 2026/Reti Logiche/0 Architettura degli Elaboratori e Laboratorio.md",
     "Magik the Gathering/Gang Aang.md",
     "Architettura 2026/Architettura della CPU",
