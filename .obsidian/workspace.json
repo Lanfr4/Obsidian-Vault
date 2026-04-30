@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3232c4287e3ce365",
+        "id": "a57c4b6a172f558b",
         "type": "tabs",
         "children": [
           {
-            "id": "aac7f64837fb290b",
+            "id": "b5e7e61be7eba1cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Architettura degli Elaboratori e Laboratorio/Cheat Sheet per Architettura degli Elaboratori.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Cheat Sheet per Architettura degli Elaboratori"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Architettura degli Elaboratori e Laboratorio/Cheat Sheet per Architettura degli Elaboratori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da Cheat Sheet per Architettura degli Elaboratori"
             }
           },
           {
@@ -179,47 +184,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7d71e6afa2656f0",
+  "active": "b5e7e61be7eba1cd",
   "lastOpenFiles": [
-    "Architettura 2026/ALTRO/9 ALU e moltiplicatore.md",
-    "Architettura 2026/ALTRO/8 Aritmetica binaria e sommatore.md",
-    "Architettura 2026/ALTRO/7 Componenti combinatori speciali.md",
-    "Architettura 2026/ALTRO/5 Sintesi di Reti Combinate.md",
-    "Architettura 2026/ALTRO/4 Componenti per l' elaborazione binaria dell' informazione.md",
-    "Architettura 2026/ALTRO/3 Algebra di Boole.md",
-    "Architettura 2026/ALTRO/2 Codifica Binaria delle Informazioni.md",
-    "Architettura 2026/ALTRO/1 Segnali Binari.md",
-    "Architettura 2026/ALTRO/0 Architettura degli Elaboratori e Laboratorio.md",
-    "Architettura 2026/ALTRO",
-    "Architettura 2026/Cheat Sheet per Architettura degli Elaboratori.md",
+    "brave_screenshot_classroom.google.com.png",
+    "Formulari/Matematica Discreta/Capitolo 3.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/9 ALU e moltiplicatore.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/8 Aritmetica binaria e sommatore.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/7 Componenti combinatori speciali.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/5 Sintesi di Reti Combinate.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/4 Componenti per l' elaborazione binaria dell' informazione.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/3 Algebra di Boole.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/2 Codifica Binaria delle Informazioni.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/1 Segnali Binari.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)/0 Architettura degli Elaboratori e Laboratorio.md",
+    "Architettura degli Elaboratori e Laboratorio/Cheat Sheet per Architettura degli Elaboratori.md",
+    "Architettura degli Elaboratori e Laboratorio/Appunti Vari(Inutili quasi)",
+    "Architettura degli Elaboratori e Laboratorio",
+    "Architettura degli Elaboratori e Laboratorio",
+    "Senza nome.md",
+    "Architettura 2026/Architettura della CPU/Cheat Sheet per Architettura degli Elaboratori.md",
+    "Architettura 2026/Reti Logiche/Cheat Sheet per Architettura degli Elaboratori.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/7 Componenti combinatori speciali.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/9 ALU e moltiplicatore.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/8 Aritmetica binaria e sommatore.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/4 Componenti per l' elaborazione binaria dell' informazione.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/5 Sintesi di Reti Combinate.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/3 Algebra di Boole.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/2 Codifica Binaria delle Informazioni.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/1 Segnali Binari.md",
+    "Architettura 2026/Architettura della CPU/ALTRO/0 Architettura degli Elaboratori e Laboratorio.md",
+    "Architettura 2026/Architettura della CPU/ALTRO",
     "Architettura 2026/Reti Logiche/ALTRO/9 ALU e moltiplicatore.md",
     "Architettura 2026/Reti Logiche/ALTRO/8 Aritmetica binaria e sommatore.md",
-    "Architettura 2026/Reti Logiche/ALTRO/7 Componenti combinatori speciali.md",
-    "Architettura 2026/Reti Logiche/ALTRO/5 Sintesi di Reti Combinate.md",
-    "Architettura 2026/Reti Logiche/ALTRO/4 Componenti per l' elaborazione binaria dell' informazione.md",
-    "Architettura 2026/Reti Logiche/ALTRO/3 Algebra di Boole.md",
-    "Architettura 2026/Reti Logiche/ALTRO/2 Codifica Binaria delle Informazioni.md",
-    "Architettura 2026/Reti Logiche/ALTRO/1 Segnali Binari.md",
-    "Architettura 2026/Reti Logiche/ALTRO/0 Architettura degli Elaboratori e Laboratorio.md",
     "Architettura 2026/Reti Logiche/ALTRO",
     "Architettura 2026/Reti Logiche/Nuova cartella",
-    "Architettura 2026/Reti Logiche/10 Introduzione alle  FSM.md",
-    "Architettura 2026/Reti Logiche/Cheat Sheet per Architettura degli Elaboratori.md",
-    "Architettura 2026/Reti Logiche/5 Sintesi di Reti Combinate.md",
-    "Architettura 2026/Reti Logiche/4 Componenti per l' elaborazione binaria dell' informazione.md",
-    "Senza nome.md",
-    "Architettura 2026/Reti Logiche/7 Componenti combinatori speciali.md",
-    "Architettura 2026/Reti Logiche/2 Codifica Binaria delle Informazioni.md",
     "Architettura 2026/Architettura della CPU",
     "Architettura 2026/Reti Logiche",
     "Formulari/Matematica Discreta",
     "Formulari",
-    "Architettura 2026/Immagini",
     "Architettura 2026/Immagini/Porte Logiche.png",
     "Architettura 2026/Immagini/Pasted image 20260317101643.png",
-    "Senza nome.base",
     "Senza nome.canvas",
-    "Senza nome 1.canvas",
-    "Magik the Gathering"
+    "Senza nome 1.canvas"
   ]
 }
