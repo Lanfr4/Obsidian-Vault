@@ -11,68 +11,29 @@ Possiamo affrontare il problema in due modi:
 
 Per convertire una funzione logica (descritta ad esempio da una tabella di verità) in un'espressione matematica univoca, si utilizzano le forme canoniche.
 
-
 - **Minitermini:** Sono termini prodotto (AND) in cui compaiono tutte le n variabili della funzione, in forma vera o complementata. Essi corrispondono alle righe della tabella di verità in cui la funzione vale 1.
-    
 - **Prima Forma Canonica (SP o SOP - Somma di Prodotti):** È la disgiunzione (somma OR) di tutti i mintermini per i quali la funzione vale 1. La formula è f=∑ i∣fi​=1​mi​.
-    
-    +2
-    
 - **Maxtermini:** Sono termini somma (OR) in cui compaiono tutte le n variabili, e corrispondono alle righe della tabella di verità in cui la funzione vale 0.
-    
 - **Seconda Forma Canonica (PS o POS - Prodotto di Somme):** È la congiunzione (prodotto AND) di tutti i maxtermini per i quali la funzione vale 0.
-    
 - **Costo:** Fissato un ordine delle variabili, queste espressioni sono uniche. Tuttavia, creano reti molto costose, con un costo proporzionale a 2n.
-    
 
 ### 2. Ottimizzazione e Valutazione del Costo
 
 Poiché le forme canoniche sono "costose" in termini di spazio fisico sul circuito, l'obiettivo è semplificarle esplorando espressioni equivalenti.
-
-+2
-
 Per stimare il costo di una rete prima ancora di realizzarla fisicamente, si usano diverse metriche:
 
 - Il conteggio puro del numero di gate (porte logiche).
-    
 - Il numero di letterali presenti nell'espressione matematica.
-    
 - La somma dei gate pesata sul numero dei loro ingressi (considerando anche i gate "nascosti" dalle parentesi).
-    
 - Il numero totale di termini prodotto o termini somma.
-    
 - **Criticità:** Queste metriche spesso ignorano il costo delle interconnessioni fisiche e si complicano quando una rete sfrutta un fan-out maggiore di 1, perdendo la corrispondenza uno-a-uno tra espressione e rete.
     
 
 ### 3. Forme Normali e Sintesi a Due Livelli
 
 Le forme normali SP e PS sono espressioni semplificate (non necessariamente uniche) che corrispondono fisicamente a reti logiche a 2 livelli. Sono molto interessanti per ragioni tecnologiche di fabbricazione.
-
-+1
-
 - **Metodi di sintesi:** Possono essere "esatti" (trovano la rete dal costo minimo assoluto) o "euristici" (trovano un minimo locale riducendo i tempi di calcolo).
-    
-    +1
-    
 - **Mappe di Karnaugh:** Sono un metodo euristico e grafico utilizzato per ottimizzare funzioni fino a un massimo di 6 variabili di ingresso.
-    
 - **Implicanti e Implicati:** Un implicante (per reti SP) è un termine prodotto che, se vale 1, rende la funzione sicuramente vera. Un implicato (per reti PS) è un termine somma che garantisce che la funzione valga 0. Quando non possono essere ulteriormente espansi, vengono definiti "primi".
-    
-    +1
-    
 - **Espansione:** Tramite le regole dell'algebra (come l'idempotenza P+P=P) si possono semplificare i termini. Si sfruttano configurazioni binarie (es. {0,1,−}) e si misurano le Distanze di Hamming. Se due termini distano 1 (cioè differiscono per una sola variabile), possono essere espansi e semplificati eliminando quella variabile.
-    
-    +4
-    
 
-### 4. Insiemi Funzionalmente Completi (NAND e NOR)
-
-Un insieme di operatori è "funzionalmente completo" se da solo basta per descrivere qualsiasi funzione logica possibile. Non serve avere per forza AND, OR e NOT insieme.
-
-+1
-
-- **NAND (↑):** Definito come a↑b=(a⋅b)′. È funzionalmente completo da solo. Utilizzando i teoremi di De Morgan, le reti a 2 livelli di tipo SP possono essere trasformate in maniera molto efficiente in reti composte esclusivamente da porte NAND.
-    
-    +1
-    
-- **NOR (↓):** Definito come a↓b=(a+b)′. Anche questo è funzionalmente completo da solo. Per il principio di dualità, permette di trasformare agevolmente le reti di tipo PS in reti a 2 livelli interamente basate su porte NOR.
