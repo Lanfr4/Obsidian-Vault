@@ -11,14 +11,10 @@
             "id": "aac7f64837fb290b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architettura 2026/Reti Logiche/6 Sintesi di Reti Combinatorie con mappe di Karnaugh.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6 Sintesi di Reti Combinatorie con mappe di Karnaugh"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -183,40 +179,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aac7f64837fb290b",
+  "active": "a7d71e6afa2656f0",
   "lastOpenFiles": [
+    "Architettura 2026/ALTRO/9 ALU e moltiplicatore.md",
+    "Architettura 2026/ALTRO/8 Aritmetica binaria e sommatore.md",
+    "Architettura 2026/ALTRO/7 Componenti combinatori speciali.md",
+    "Architettura 2026/ALTRO/5 Sintesi di Reti Combinate.md",
+    "Architettura 2026/ALTRO/4 Componenti per l' elaborazione binaria dell' informazione.md",
+    "Architettura 2026/ALTRO/3 Algebra di Boole.md",
+    "Architettura 2026/ALTRO/2 Codifica Binaria delle Informazioni.md",
+    "Architettura 2026/ALTRO/1 Segnali Binari.md",
+    "Architettura 2026/ALTRO/0 Architettura degli Elaboratori e Laboratorio.md",
+    "Architettura 2026/ALTRO",
+    "Architettura 2026/Cheat Sheet per Architettura degli Elaboratori.md",
+    "Architettura 2026/Reti Logiche/ALTRO/9 ALU e moltiplicatore.md",
+    "Architettura 2026/Reti Logiche/ALTRO/8 Aritmetica binaria e sommatore.md",
+    "Architettura 2026/Reti Logiche/ALTRO/7 Componenti combinatori speciali.md",
+    "Architettura 2026/Reti Logiche/ALTRO/5 Sintesi di Reti Combinate.md",
+    "Architettura 2026/Reti Logiche/ALTRO/4 Componenti per l' elaborazione binaria dell' informazione.md",
+    "Architettura 2026/Reti Logiche/ALTRO/3 Algebra di Boole.md",
+    "Architettura 2026/Reti Logiche/ALTRO/2 Codifica Binaria delle Informazioni.md",
+    "Architettura 2026/Reti Logiche/ALTRO/1 Segnali Binari.md",
+    "Architettura 2026/Reti Logiche/ALTRO/0 Architettura degli Elaboratori e Laboratorio.md",
+    "Architettura 2026/Reti Logiche/ALTRO",
+    "Architettura 2026/Reti Logiche/Nuova cartella",
+    "Architettura 2026/Reti Logiche/10 Introduzione alle  FSM.md",
+    "Architettura 2026/Reti Logiche/Cheat Sheet per Architettura degli Elaboratori.md",
     "Architettura 2026/Reti Logiche/5 Sintesi di Reti Combinate.md",
     "Architettura 2026/Reti Logiche/4 Componenti per l' elaborazione binaria dell' informazione.md",
     "Senza nome.md",
-    "Architettura 2026/Reti Logiche/10 Introduzione alle  FSM.md",
     "Architettura 2026/Reti Logiche/7 Componenti combinatori speciali.md",
-    "Architettura 2026/Reti Logiche/6 Sintesi di Reti Combinatorie con mappe di Karnaugh.md",
     "Architettura 2026/Reti Logiche/2 Codifica Binaria delle Informazioni.md",
-    "Architettura 2026/Reti Logiche/1 Segnali Binari.md",
-    "Architettura 2026/Reti Logiche/9 ALU e moltiplicatore.md",
-    "Architettura 2026/Reti Logiche/8 Aritmetica binaria e sommatore.md",
-    "Architettura 2026/Reti Logiche/3 Algebra di Boole.md",
-    "Architettura 2026/Reti Logiche/0 Architettura degli Elaboratori e Laboratorio.md",
-    "Magik the Gathering/Gang Aang.md",
     "Architettura 2026/Architettura della CPU",
     "Architettura 2026/Reti Logiche",
-    "Magik the Gathering/Aang e Zuko.md",
-    "Formulari/Matematica Discreta/Capitolo 3.md",
     "Formulari/Matematica Discreta",
     "Formulari",
-    "Magik the Gathering/Ninja di Kamigawa.md",
-    "Magik the Gathering/Magik the Gathering Decks.md",
-    "README.md",
     "Architettura 2026/Immagini",
     "Architettura 2026/Immagini/Porte Logiche.png",
     "Architettura 2026/Immagini/Pasted image 20260317101643.png",
-    "Magik the Gathering/Samurai Solitari.md",
-    "Magik the Gathering/Toph e Katara.md",
     "Senza nome.base",
     "Senza nome.canvas",
     "Senza nome 1.canvas",
-    "Magik the Gathering",
-    "Architettura 2026",
-    "Componenti per l' elaborazione dell' Informazione.md"
+    "Magik the Gathering"
   ]
 }
