@@ -1,4 +1,4 @@
-[[Magik the Gathering Decks]]
+[[0 Magik the Gathering Decks]]
 
 ### Creature
 2x Katara Bending Prodigy
