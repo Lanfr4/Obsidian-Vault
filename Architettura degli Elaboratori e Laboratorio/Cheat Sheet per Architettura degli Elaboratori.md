@@ -22,6 +22,6 @@ Quando si raggruppano gli 1 in base alla dimensione del gruppo sappiamo che:
 ### Sintesi
 Per Risolvere le Reti Logiche tramite sintesi bisogna semplicemente vedere l' input da ogni punto della mia rete e associarli con altri tramite AND,OR, ecc.. per far si che risulti un output 0 oppure 1;
 qui sotto c'è la tabella di verità per tutte le componenti più importanti:
-![[brave_screenshot_classroom.google.com.png]] 
+ 
 ## Analisi e Sintesi delle Reti Logiche Sequenziali
 Questo tipo di Reti si risolve tramite FSM, per farlo si svolgono i seguenti step:
