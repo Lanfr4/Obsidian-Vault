@@ -24,4 +24,14 @@ Per Risolvere le Reti Logiche tramite sintesi bisogna semplicemente vedere l' in
 qui sotto c'è la tabella di verità per tutte le componenti più importanti:
  
 ## Analisi e Sintesi delle Reti Logiche Sequenziali
-Questo tipo di Reti si risolve tramite FSM, per farlo si svolgono i seguenti step:
+Per risolvere qualsiasi esercizio di reti logiche sequenziali, segui questa sequenza (puoi impararla a memoria):
+
+| **Step** | **Nome del Passaggio**          | **Cosa devi fare in pratica**                                                                                              |
+| -------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **1**    | **Analisi del problema**        | Identifica il numero di bit, cosa determina l'uscita (1 o 0) e quando la macchina deve "resettarsi".                       |
+| **2**    | **Diagramma degli Stati (FSM)** | Disegna i cerchi ($S_0, S_1...$) e le frecce con Input/Output. (È quello che abbiamo imparato a fare!).                    |
+| **3**    | **Tabella delle Transizioni**   | Traduci il diagramma in una tabella: _Stato Presente_, _Input_ $\rightarrow$ _Stato Futuro_, _Output_.                     |
+| **4**    | **Codifica**                    | Assegna un valore binario agli stati ($S_0=00, S_1=01...$).                                                                |
+| **5**    | **Sintesi (Karnaugh)**          | Usa le mappe di Karnaugh per trovare l'equazione del "Prossimo Stato" e dell' "Output" basandoti sulla tabella al punto 3. |
+| **6**    | **Disegno del Circuito**        | Disegna porte AND, OR, NOT e i Flip-Flop (collegati secondo le equazioni trovate).                                         |
+# Prossimo Argomento
